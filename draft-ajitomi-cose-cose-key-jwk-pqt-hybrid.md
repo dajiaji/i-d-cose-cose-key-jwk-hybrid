@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "COSE Key and JSON Web Key Representation for Post-Quantum Traditional Hybrid Scheme"
+abbrev: "COSE Key and JWK for PQ/T Hybrid Scheme"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
